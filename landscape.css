@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    z-index: -1;
+}
+
+.words {
+    font-family: "Nunito", monospace;
+    line-height: 5vhmin;
+    margin-left: 30px;
+    padding-top: 30px;
+    color: rgba(255, 255, 255, 0.7);
+}
